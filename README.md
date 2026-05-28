@@ -8,15 +8,15 @@ A fully containerized Counter-Strike 2 dedicated modded server with admin menu c
 This project provides a clean, reproducible environment using Docker, making it easy to deploy, update, and maintain a CS2 server on any machine.
 
 # Features
-Dockerized CS2 server — no manual installs or scattered files
+Dockerized CS2 server : no manual installs or scattered files
 
-Automatic updates — server pulls the latest CS2 build on start
+Automatic updates : server pulls the latest CS2 build on start
 
-Config persistence — store custom server configs outside the container
+Config persistence : store custom server configs outside the container
 
-Port forwarding ready — works on local networks, cloud hosts, or home servers
+Port forwarding ready : works on local networks, cloud hosts, or home servers
 
-Simple commands — start/stop/rebuild with one line
+Simple commands : start/stop/rebuild with one line
 
 
 # Step 1: Enter SRCDS token
