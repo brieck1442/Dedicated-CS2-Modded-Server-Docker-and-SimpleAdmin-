@@ -9,9 +9,13 @@ This project provides a clean, reproducible environment using Docker, making it 
 
 # Features
 Dockerized CS2 server — no manual installs or scattered files
+
 Automatic updates — server pulls the latest CS2 build on start
+
 Config persistence — store custom server configs outside the container
+
 Port forwarding ready — works on local networks, cloud hosts, or home servers
+
 Simple commands — start/stop/rebuild with one line
 
 
