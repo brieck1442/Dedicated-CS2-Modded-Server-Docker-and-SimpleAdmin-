@@ -22,10 +22,15 @@ Simple commands : start/stop/rebuild with one line
 
 Get SRCDS Token: https://steamcommunity.com/dev/manage...
 
+
 Metamod: https://www.sourcemm.net/downloads.ph...
+
 ARRCON: https://github.com/radj307/ARRCON
+
 CounterStrikeSharp: https://github.com/roflmuffin/Counter...
+
 SimpleAdmin: https://github.com/daffyyyy/CS2-Simpl...
+
 Get your STEAMID64: https://steamid.io/lookup
 
 SimpleAdmin Dependancies:
