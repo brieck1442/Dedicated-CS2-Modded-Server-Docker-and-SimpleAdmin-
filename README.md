@@ -39,4 +39,9 @@ Run the command 'ld' to make sure it's working, then you can do "docker compose 
 First step is to install metamod, counterstrikeSharp, and SimpleAdmin as addon plugins to your CS2-data folder. It is best to follow the tutorial on YT for this step as trying to type it would just be confusing.
 <img width="1122" height="300" alt="image" src="https://github.com/user-attachments/assets/4084e9ec-3e06-4153-817a-1131bda5517a" />
 
+Next step was to install ARCOM and use css_addadmin command to get privileges to run the SimpleAdmin menu. 
+
+<img width="1869" height="977" alt="canruncommands" src="https://github.com/user-attachments/assets/d4ab5266-ef15-4fde-96d0-a2a7acf37b46" />
+
+
 
