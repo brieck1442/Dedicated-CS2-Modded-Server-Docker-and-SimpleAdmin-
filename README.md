@@ -36,4 +36,7 @@ Run the command 'ld' to make sure it's working, then you can do "docker compose 
 
 # Step 3: Installing Mods
 
+First step is to install metamod, counterstrikeSharp, and SimpleAdmin as addon plugins to your CS2-data folder. It is best to follow the tutorial on YT for this step as trying to type it would just be confusing.
+<img width="1122" height="300" alt="image" src="https://github.com/user-attachments/assets/4084e9ec-3e06-4153-817a-1131bda5517a" />
+
 
