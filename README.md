@@ -29,4 +29,7 @@ After that, you paste it in the SRCDS Token section in the Docker Compose file I
 
 <img width="1895" height="1032" alt="image" src="https://github.com/user-attachments/assets/a6d1ab0c-5162-4b06-a01b-b2584cf4d581" />
 
+# Step 2: Run the Docker Compose file in PowerShell Windows Terminal.
+<img width="1815" height="560" alt="Screenshot 2026-05-27 211945" src="https://github.com/user-attachments/assets/918d5797-ffb6-40de-9359-0369af6da16e" />
 
+Run the command 'ld' to make sure it's working, then you can do "docker compose up" to start and start the server. 
