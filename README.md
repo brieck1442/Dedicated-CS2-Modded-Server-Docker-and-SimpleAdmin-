@@ -33,3 +33,7 @@ After that, you paste it in the SRCDS Token section in the Docker Compose file I
 <img width="1815" height="560" alt="Screenshot 2026-05-27 211945" src="https://github.com/user-attachments/assets/918d5797-ffb6-40de-9359-0369af6da16e" />
 
 Run the command 'ld' to make sure it's working, then you can do "docker compose up" to start and start the server. 
+
+# Step 3: Installing Mods
+
+
